@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 こんにちは！私は[Your Name](https://github.com/your-username)です
 
-<!--
-**goldenpotato-jp/goldenpotato-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web開発者、エンジニア、デザイナーを目指して勉強中です。  
+GitHubでは主にWeb技術やプログラムに関するリポジトリを作成しています。
 
-Here are some ideas to get you started:
+### 🌱 現在学んでいること
+- JavaScript、TypeScript
+- React、Node.js、Next.js
+- デザインツール（Figma、Adobe XD）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 SNSリンク
+- 🐦 [X（旧Twitter）](https://twitter.com/your_username)
+- 📺 [YouTube チャンネル](https://www.youtube.com/@yourchannelname)
+
+### 📈 スキル
+- フロントエンド開発（HTML、CSS、JavaScript）
+- バックエンド開発（Node.js、Express）
+- データベース（MongoDB、MySQL）
+
+### 🧑‍💻 ポートフォリオ
+- [ポートフォリオウェブサイト](https://your-portfolio.com)（まだ準備中の場合は省略できます）
+
+---
+
+📝 **自己紹介**
+ここに簡単な自己紹介を追加できます。例えば、なぜエンジニアを目指しているか、今後のキャリアプラン、得意な技術などを書いてみてください。
