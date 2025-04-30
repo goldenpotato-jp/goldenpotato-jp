@@ -1,4 +1,4 @@
-# こんにちは！私は[GoldenPotato](https://github.com/goldenpotato-jp)です
+# こんにちは！[GoldenPotato](https://github.com/goldenpotato-jp)です
 
 ゲームエンジニアを目指して勉強中です。  
 GitHubでは主に自分で作ったゲームのプログラムに関するリポジトリを作成しています。
