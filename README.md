@@ -1,26 +1,15 @@
-# 👋 こんにちは！私は[Your Name](https://github.com/your-username)です
+# こんにちは！私はGoldenPotato(https://github.com/goldenpotato-jp)です
 
-Web開発者、エンジニア、デザイナーを目指して勉強中です。  
-GitHubでは主にWeb技術やプログラムに関するリポジトリを作成しています。
+ゲームエンジニアを目指して勉強中です。  
+GitHubでは主に自分で作ったゲームのプログラムに関するリポジトリを作成しています。
 
 ### 🌱 現在学んでいること
-- JavaScript、TypeScript
-- React、Node.js、Next.js
-- デザインツール（Figma、Adobe XD）
+- python、c++
+- pyxel、競技プログラミング
 
 ### 🔗 SNSリンク
-- 🐦 [X（旧Twitter）](https://twitter.com/your_username)
-- 📺 [YouTube チャンネル](https://www.youtube.com/@yourchannelname)
-
-### 📈 スキル
-- フロントエンド開発（HTML、CSS、JavaScript）
-- バックエンド開発（Node.js、Express）
-- データベース（MongoDB、MySQL）
-
-### 🧑‍💻 ポートフォリオ
-- [ポートフォリオウェブサイト](https://your-portfolio.com)（まだ準備中の場合は省略できます）
-
----
-
+-  [X（旧Twitter）](https://x.com/GoldenPotatoJP)
+-  [YouTube チャンネル](https://www.youtube.com/@GoldenPotato-jp)
+  
 📝 **自己紹介**
-ここに簡単な自己紹介を追加できます。例えば、なぜエンジニアを目指しているか、今後のキャリアプラン、得意な技術などを書いてみてください。
+　良いレトロゲームを作りたいです。
